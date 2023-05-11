@@ -1,3 +1,2 @@
 # Manuales
-
-![](./msedge_MXtVPQzxPW.png)
+no se gasten el filamento
